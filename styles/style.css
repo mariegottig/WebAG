@@ -1,0 +1,37 @@
+.subtitleServices{
+    font-size: 70px !important;
+    /* color:white !important; */
+   background: linear-gradient(0deg, red, black );
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.subtitleServices1{
+    font-size: 75px !important;
+    color:black !important;
+    
+}
+
+.mt-20{
+    margin-top: 70px;
+}
+
+.container_contact{
+    width: 80%;
+    margin: 50px auto;
+
+}
+.container_contact_title{
+    text-align: center;
+}
+
+.container_contact_box{
+    display: flex;
+    column-gap: 10px;
+}
+
+.container_contact_info{
+    flex: 1 1 0;
+    text-align: center;
+}
+
